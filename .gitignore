@@ -1,2 +1,2 @@
-#!/bin/bash
+# Ignore files ending with a tilde (~)
 *~
